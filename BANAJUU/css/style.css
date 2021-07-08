@@ -1,0 +1,185 @@
+/* .main {
+	background-image: url(img/background_BANANA.png);
+	background-size: cover;
+} */
+.background {
+	max-width: 100%;
+}
+.container {
+	width: 85%;
+	height: auto;
+	margin: 0 auto;
+}
+.top {
+	background-color: #FFF67F;
+	width: 25em;
+	height: 20em;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 5em;
+	margin-bottom: 5em;
+}
+.top_logo {
+	display: block;
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 2em;
+}
+.top_img {
+	display: block;
+	width: 50%;
+	margin: 0 auto;
+	padding-top: 1.5em;
+	padding-bottom: 3em;
+}
+.whatis_banajuu {
+	background-color: rgba(225, 225, 225, 0.75);
+	margin-bottom: 5em;
+}
+ [class*="_title"] {
+	text-align: center;
+	padding-top: 3em;
+}
+.conctent_whatis_banajuu {
+	display: flex;
+	padding-bottom: 3em;
+}
+.conctent_whatis_banajuu p {
+	width: 50%;
+	padding-top: 4.5em;
+	padding-left: 3em;
+	padding-right: 2em;
+	letter-spacing: 0.5em;
+}
+.conctent_whatis_banajuu img{
+	width: 50%;
+	padding: 2.5em;
+	padding-left: 1em;
+}
+/* .whatis_photo {
+	width: 50%;
+} */
+.members {
+	background-color:	rgba(254, 225, 239, 0.7);
+	padding-bottom: 3em;
+	margin-bottom: 5em;
+}
+.intro {
+	display: flex;
+}
+.intro img {
+	width: 50%;
+	margin: 2em;
+	border-radius: 50%;
+}
+.intro p {
+	width: 50%;
+	margin: auto;
+	font-size: 1em;
+	letter-spacing: 0.3em;
+	/* background-color: #ffffff; */
+	/* opacity: 50%; */
+}
+.menu {
+	background-color: rgba(244, 246, 127, 0.75);
+	margin-bottom: 5em;
+}
+.content_menu {
+	display: flex;
+	padding-top: 2em;
+	padding-bottom: 3em;
+}
+.content_menu_left {
+	width: 50%;
+	padding: 2em 0 2em 2em;
+	padding-top: 0;
+}
+.content_menu_right {
+	width: 40%;
+	margin: auto;
+}
+.price {
+	display: flex;
+	margin-bottom: 0;
+}
+.kurobanana h2 {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.Wkurobanana {
+	width: 60%;
+	height: 100%;
+}
+.topping_img {
+	width: 100%;
+}
+.kakaku {
+	display: inline-block;
+	margin-left: auto;
+}
+.zeikomi {
+	text-align: right;
+}
+.juice {
+	width: 100%;
+}
+.content_menu_left p {
+	margin-top: 0em;
+}
+.access {
+	background-color: rgba(225, 225, 225, 0.7);
+	margin-bottom: 5em;
+}
+.content_access {
+	display: flex;
+	padding-top: 2em;
+	padding-bottom: 3em;
+}
+.content_access_left {
+	width: 55%;
+	margin-left: 2em;;
+}
+.content_access_right {
+	width: 45%;
+	display: block;
+	margin: auto;
+}
+.content_access p {
+	font-size: 0.9em;
+	text-align: center;
+	letter-spacing: 0.2em;
+	margin: 0;
+}
+.subtitle {
+	font-weight: normal;
+	font-size: 1em;
+	text-align: center;
+	margin-bottom: 0;
+}
+.access_txtarea {
+	margin-bottom: 2em;
+}
+footer {
+	background-size: cover;
+	height: 3em;
+	background-color: rgba(90, 90, 85, 1);
+	display: block;
+	}
+.link {
+	margin: 0 0 0 auto;
+	padding-top: 0.7em;
+}
+.footer_logo {
+	width: 7em;
+	float: right;
+}
+.facebook {
+	width: 1.5em;
+	float: right;
+	margin-right: 0.5em;
+}
+.instagram {
+	width: 1.5em;
+	float: right;
+	margin-right: 0.5em;
+}
